@@ -3,7 +3,7 @@
   "id": "fix",
   "version": "${version}",
   "name": "MouseDelayFix",
-  "description": "MouseDelayFix",
+  "description": "This lagecyfabric mod fixed the 1.8 mousedelaybug in Minecraft :)",
   "authors": [
     "aredblock"
   ],
